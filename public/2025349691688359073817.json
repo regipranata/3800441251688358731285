@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "413258476663",
+    "project_id": "getta-v",
+    "storage_bucket": "getta-v.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413258476663:android:87a7a466e9c9084f06ea72",
+        "android_client_info": {
+          "package_name": "com.yaya.haredang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413258476663-7uo0qgrur028ebpf866eeu323bkv929b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgzt5jZUC5_D7GmBig4LnG9t3FuXF0Yrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413258476663-7uo0qgrur028ebpf866eeu323bkv929b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
